@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Remind Me There</string>
+    <string name="api_key">AIzaSyApasiJscU5ARiVjlFgm9pk2-HcLT9XOXY</string>
+    <string name="settings_label">Settings</string>
+    <string name="geofence_switch_text">Enable Geofences</string>
+    <string name="location_permission_label">Location Permission</string>
+    <string name="add_location">Add New Location</string>
+    <string name="need_location_permission">You need to enable location permission first</string>
+</resources>
